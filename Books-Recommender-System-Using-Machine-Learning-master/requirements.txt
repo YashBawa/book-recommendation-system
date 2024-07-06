@@ -1,7 +1,7 @@
 ### dependency
 streamlit
 numpy
-pandas
+pandas==1.5.2
 scikit-learn
 
 ### local packages -
